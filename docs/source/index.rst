@@ -8,7 +8,5 @@ Welcome to iGEM Knowledge Transfer!
 ===================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 	
    Choosing a Project
