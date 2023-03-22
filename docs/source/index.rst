@@ -7,4 +7,4 @@ https://github.com/SreeniEadara/iGEM-Knowledge-Transfer
 .. toctree::
 :caption: Contents:
 	
-	Choosing a Project
+   Choosing a Project
