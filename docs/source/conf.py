@@ -38,7 +38,3 @@ source_suffix = {
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
-
-python:
- install:
- - requirements: docs/requirements.txt
