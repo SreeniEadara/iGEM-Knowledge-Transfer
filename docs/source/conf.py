@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'iGEM Knowledge Transfer'
+copyright = '2023, Sreeni Eadara'
+author = 'Sreeni Eadara'
 
 release = '0.1'
 version = '0.1.0'
@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+	'sphinx_markdown_builder',
 ]
 
 intersphinx_mapping = {
